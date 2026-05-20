@@ -1,0 +1,2440 @@
+{
+  "Major": [
+    {
+      "name": "The Fool",
+      "image": "https://i.ibb.co/9R4XStw/Fool.jpg",
+      "represents": {
+        "planet": "Uranus",
+        "zodiac": "",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "New beginnings, spontaneity, freedom, optimism, adventure, innocence, risk, curiosity",
+        "description": "The Fool signifies the start of a journey with an open heart and a free spirit. It encourages you to embrace new opportunities and adventures."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Foolishness, recklessness, naivety, misjudgment, impulsiveness, imprudence, irresponsibility, confusion",
+        "description": "The Fool warns against impulsive actions and a lack of direction, suggesting the need for caution and thoughtful planning."
+      }
+    },
+    {
+      "name": "The Magician",
+      "image": "https://i.ibb.co/Z6j2G6Tx/Magician.jpg",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Manifestation, resourcefulness, power, creativity, focus, skill, determination, influence",
+        "description": "The Magician represents the power to manifest your desires through resourcefulness and skill, turning ideas into reality."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Manipulation, trickery, lack of power, deception, misuse, instability, deceit, obscurity",
+        "description": "The Magician warns against deceit or misuse of your talents, suggesting that your energies may be scattered or misdirected."
+      }
+    },
+    {
+      "name": "The High Priestess",
+      "image": "https://i.ibb.co/HLyfk1Ks/High-Priestess.jpg",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Intuition, mystery, subconscious mind, wisdom, perception, secrets, insight, receptivity",
+        "description": "The High Priestess symbolizes inner wisdom and the mystery of the subconscious, inviting you to trust your instincts."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Secrecy, hidden agendas, disconnected intuition, deception, obscurity, misinterpretation, withdrawal, confusion",
+        "description": "The High Priestess suggests that you may be ignoring your inner voice or that hidden information is at play."
+      }
+    },
+    {
+      "name": "The Empress",
+      "image": "https://i.ibb.co/GvpbdXpr/Empress.jpg",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Creativity, fertility, abundance, nurturing, growth, beauty, prosperity, comfort",
+        "description": "The Empress embodies creativity, nurturing energy, and the bounty of nature, inviting growth and prosperity."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Smothering, creative block, neglect, stagnation, dependency, suppression, limitation, deprivation",
+        "description": "The Empress may indicate creative blocks or an overly controlling, smothering influence that stifles growth."
+      }
+    },
+    {
+      "name": "The Emperor",
+      "image": "https://i.ibb.co/4wV6sDxx/Emperor.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Aries",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Authority, structure, stability, leadership, order, control, decisiveness, responsibility",
+        "description": "The Emperor stands for leadership, order, and a solid structure that brings stability and clear direction."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Domination, rigidity, lack of control, tyranny, inflexibility, oppression, authoritarian, imbalance",
+        "description": "The Emperor warns of excessive control or inflexibility, leading to potential abuse of power and instability."
+      }
+    },
+    {
+      "name": "The Hierophant",
+      "image": "https://i.ibb.co/5Xb74bjD/Hierophant.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Taurus",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Spiritual wisdom, tradition, conformity, guidance, ritual, morality, structure, heritage",
+        "description": "The Hierophant represents traditional values, spiritual guidance, and the wisdom of established institutions."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Rebellion, unconventionality, disregard for tradition, innovation, nonconformity, disruption, liberation, free-thinking",
+        "description": "The Hierophant suggests breaking free from rigid traditions and embracing a more unconventional approach."
+      }
+    },
+    {
+      "name": "The Lovers",
+      "image": "https://i.ibb.co/nsgnbr0d/Lovers.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Gemini",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Love, harmony, relationships, union, passion, connection, commitment, attraction",
+        "description": "The Lovers card signifies deep emotional connections, love, and the harmonious union of opposites."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Disharmony, imbalance, misalignment, conflict, separation, discord, tension, disconnect",
+        "description": "The Lovers indicates challenges in relationships, miscommunication, or imbalances in emotional connections."
+      }
+    },
+    {
+      "name": "The Chariot",
+      "image": "https://i.ibb.co/FqCsp4kB/Chariot.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Cancer",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Willpower, control, direction, determination, drive, victory, focus, momentum",
+        "description": "The Chariot is a symbol of victory achieved through focus, determination, and the mastery of conflicting forces."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of control, aggression, scattered energy, disorder, frustration, impulsiveness, instability, misdirection",
+        "description": "The Chariot warns of a loss of direction or control, and the potential for reckless or aggressive behavior."
+      }
+    },
+    {
+      "name": "Strength",
+      "image": "https://i.ibb.co/cSrxty0Q/Strength.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Leo",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Courage, patience, inner strength, resilience, fortitude, compassion, determination, endurance",
+        "description": "Strength represents the power of inner resilience, compassion, and gentle control to overcome obstacles."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Self-doubt, weakness, insecurity, vulnerability, hesitancy, fear, uncertainty, fragility",
+        "description": "Strength may indicate inner turmoil, self-doubt, or a lack of confidence in facing challenges."
+      }
+    },
+    {
+      "name": "The Hermit",
+      "image": "https://i.ibb.co/R4PFZV8d/Hermit.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Virgo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Introspection, guidance, solitude, reflection, wisdom, meditation, retreat, clarity",
+        "description": "The Hermit encourages introspection and solitude to seek inner guidance and a deeper understanding of life."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Isolation, loneliness, withdrawal, alienation, detachment, seclusion, abandonment, disconnection",
+        "description": "The Hermit can signal excessive isolation or a reluctance to seek support when needed."
+      }
+    },
+    {
+      "name": "Wheel of Fortune",
+      "image": "https://i.ibb.co/2bM2zXs/Wheel-Of-Fortune.jpg",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Luck, cycles, change, destiny, fluctuation, progress, evolution, opportunity",
+        "description": "The Wheel of Fortune reflects the ever-changing cycles of life, bringing opportunities and unexpected turns."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Bad luck, resistance to change, unpredictability, misfortune, stagnation, instability, disruption, chaos",
+        "description": "The Wheel of Fortune suggests setbacks, a resistance to change, or unforeseen obstacles."
+      }
+    },
+    {
+      "name": "Justice",
+      "image": "https://i.ibb.co/NnLLtD3g/Justice.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Libra",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Fairness, truth, law, balance, integrity, equality, accountability, order",
+        "description": "Justice stands for fairness, balance, and the impartial application of truth and legal standards."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Injustice, bias, imbalance, partiality, corruption, inequity, prejudice, unfairness",
+        "description": "Justice warns of unfairness, bias, or a distortion of truth that upsets the natural balance."
+      }
+    },
+    {
+      "name": "The Hanged Man",
+      "image": "https://i.ibb.co/1YprMQm6/Hanged-Man.jpg",
+      "represents": {
+        "planet": "Neptune",
+        "zodiac": "",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Pause, surrender, letting go, acceptance, reflection, sacrifice, release, transition",
+        "description": "The Hanged Man suggests a time for pause and reflection, inviting you to surrender old habits to see things anew."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Stagnation, resistance, martyrdom, inertia, delay, obstinacy, sacrifice, rigidity",
+        "description": "The Hanged Man indicates difficulty in letting go, which may lead to stagnation or self-sacrifice."
+      }
+    },
+    {
+      "name": "Death",
+      "image": "https://i.ibb.co/8nJRC548/Death.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Scorpio",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Transformation, endings, new beginnings, renewal, change, transition, evolution, closure",
+        "description": "Death signals a powerful transformation, marking the end of one phase and the beginning of another."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Resistance to change, stagnation, fear of endings, avoidance, inertia, denial, reluctance, delay",
+        "description": "Death suggests an unwillingness to let go of the past, resulting in stagnation or missed opportunities for growth."
+      }
+    },
+    {
+      "name": "Temperance",
+      "image": "https://i.ibb.co/wZr9tWm7/Temperance.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Sagittarius",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Balance, moderation, harmony, integration, synergy, equilibrium, patience, cooperation",
+        "description": "Temperance encourages balance and the integration of opposites, guiding you toward harmony and moderation."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Imbalance, excess, discord, overindulgence, conflict, disharmony, disruption, extremism",
+        "description": "Temperance warns of extremes or a lack of balance that disrupts harmony in your life."
+      }
+    },
+    {
+      "name": "The Devil",
+      "image": "https://i.ibb.co/VpDkZ8gx/Devil.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Capricorn",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Bondage, addiction, materialism, temptation, dependency, restriction, enslavement, obsession",
+        "description": "The Devil represents the chains of addiction, materialism, and unhealthy attachments that bind you."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Freedom, release, overcoming addiction, liberation, empowerment, recovery, unbinding, renewal",
+        "description": "The Devil indicates the possibility of breaking free from negative patterns and regaining control."
+      }
+    },
+    {
+      "name": "The Tower",
+      "image": "https://i.ibb.co/8DSBymk6/Tower.jpg",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Sudden change, upheaval, chaos, disruption, revelation, shock, collapse, transformation",
+        "description": "The Tower signals dramatic, sometimes disruptive change that, while unsettling, paves the way for transformation."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Avoidance of disaster, fear of change, delayed upheaval, resistance, postponement, hesitancy, safety, caution",
+        "description": "The Tower may indicate a reluctance to face necessary change or a temporary delay in upheaval."
+      }
+    },
+    {
+      "name": "The Star",
+      "image": "https://i.ibb.co/5gbMH4Rw/Star.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Aquarius",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Hope, inspiration, serenity, renewal, guidance, optimism, clarity, peace",
+        "description": "The Star offers a beacon of hope and inspiration, guiding you toward inner peace and clarity."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Despair, disillusionment, loss of faith, hopelessness, disconnection, gloom, skepticism, sorrow",
+        "description": "The Star suggests feelings of discouragement or disconnection from your inner light."
+      }
+    },
+    {
+      "name": "The Moon",
+      "image": "https://i.ibb.co/pjZPBb7n/Moon.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Pisces",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Illusion, fear, anxiety, uncertainty, mystery, confusion, insecurity, apprehension",
+        "description": "The Moon invites you to explore your subconscious and confront hidden fears and uncertainties."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Confusion, misinterpretation, heightened anxiety, distortion, ambiguity, instability, paranoia, disorientation",
+        "description": "The Moon warns of increased anxiety, misinterpretations, or deception clouding your judgment."
+      }
+    },
+    {
+      "name": "The Sun",
+      "image": "https://i.ibb.co/PZVppvKk/Sun.jpg",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Joy, success, positivity, vitality, energy, clarity, enthusiasm, achievement",
+        "description": "The Sun radiates positivity, success, and vitality, symbolizing warmth and joyful energy."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Temporary setbacks, lack of clarity, oversensitivity, doubt, cloudiness, vulnerability, uncertainty, delays",
+        "description": "The Sun may suggest temporary obstacles or a dampening of the usual positive energy."
+      }
+    },
+    {
+      "name": "Judgement",
+      "image": "https://i.ibb.co/Jj59kdgJ/Judgement.jpg",
+      "represents": {
+        "planet": "Pluto",
+        "zodiac": "",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Reflection, reckoning, awakening, evaluation, renewal, realization, insight, transformation",
+        "description": "Judgement calls for honest self-reflection and the opportunity to awaken to a new phase of life."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Self-doubt, avoidance, poor decision-making, hesitation, inaction, confusion, regret, misjudgment",
+        "description": "Judgement warns of an unwillingness to face past actions or learn from previous mistakes."
+      }
+    },
+    {
+      "name": "The World",
+      "image": "https://i.ibb.co/Wvrr5V0t/World.jpg",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Completion, accomplishment, travel, fulfillment, unity, wholeness, success, integration",
+        "description": "The World celebrates the successful completion of a cycle, marking fulfillment and wholeness."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Incomplete tasks, delays, lack of closure, unfinished, disruption, postponement, fragmentation, disintegration",
+        "description": "The World indicates unfinished business or delays in reaching your full potential."
+      }
+    }
+  ],
+  "Minor": [
+    {
+      "name": "Ace of Swords",
+      "image": "https://i.ibb.co/Xrg0YzbN/Ace-Swords.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Breakthrough, clarity, sharp mind, insight, decisiveness, focus, vision, truth",
+        "description": "The Ace of Swords heralds a breakthrough in thought and clarity of vision, cutting through confusion to reveal truth."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Confusion, miscommunication, mental block, obscurity, doubt, disarray, misunderstanding, fog",
+        "description": "The Ace of Swords warns of confusion or miscommunication, suggesting that clarity may be obstructed."
+      }
+    },
+    {
+      "name": "Two of Swords",
+      "image": "https://i.ibb.co/TD1MMRrv/2Swords.jpg",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "Libra",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Indecision, choices, stalemate, dilemma, uncertainty, conflict, impasse, hesitation",
+        "description": "The Two of Swords reflects a difficult decision or a stalemate in thought, urging you to seek clarity."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Overwhelm, imbalance, confusion, disorder, chaos, disorganization, dissonance, turmoil",
+        "description": "The Two of Swords indicates a breakdown in decision-making, often leading to further confusion."
+      }
+    },
+    {
+      "name": "Three of Swords",
+      "image": "https://i.ibb.co/xqz8ThJR/3Swords.jpg",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "Libra",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Heartbreak, grief, sorrow, pain, loss, betrayal, despair, mourning",
+        "description": "The Three of Swords symbolizes deep emotional pain and heartbreak, urging acknowledgement and healing."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Recovery, forgiveness, healing, renewal, reconciliation, mending, resurgence, hope",
+        "description": "The Three of Swords offers the promise of recovery and the potential to heal from past hurts."
+      }
+    },
+    {
+      "name": "Four of Swords",
+      "image": "https://i.ibb.co/xtZ0NL60/4Swords.jpg",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "Libra",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Rest, recovery, contemplation, pause, calm, relaxation, introspection, renewal",
+        "description": "The Four of Swords invites a period of rest and contemplation, allowing for mental and physical recovery."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Restlessness, burnout, anxiety, tension, fatigue, agitation, stress, disturbance",
+        "description": "The Four of Swords may indicate a reluctance to rest, leading to exhaustion or heightened stress."
+      }
+    },
+    {
+      "name": "Five of Swords",
+      "image": "https://i.ibb.co/N6886LVx/5Swords.jpg",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Aquarius",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Conflict, tension, defeat, struggle, discord, rivalry, confrontation, loss",
+        "description": "The Five of Swords reflects a situation of conflict and tension, where winning may come at too high a cost."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Resolution, reconciliation, compromise, settlement, understanding, peace, agreement, unity",
+        "description": "The Five of Swords signals the potential for resolving conflicts through compromise and understanding."
+      }
+    },
+    {
+      "name": "Six of Swords",
+      "image": "https://i.ibb.co/v6wL92YP/6Swords.jpg",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Aquarius",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Transition, change, rite of passage, journey, movement, progress, transformation, evolution",
+        "description": "The Six of Swords represents a journey away from difficulty toward calmer waters—a rite of passage into a new phase."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Resistance to change, emotional baggage, stagnation, hesitation, burden, nostalgia, inertia, reluctance",
+        "description": "The Six of Swords suggests a reluctance to leave the past behind, resulting in lingering emotional turmoil."
+      }
+    },
+    {
+      "name": "Seven of Swords",
+      "image": "https://i.ibb.co/DfrrMBfK/7Swords.jpg",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "Aquarius",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Deception, strategy, betrayal, cunning, stealth, secrecy, trickery, guile",
+        "description": "The Seven of Swords points to cunning strategy or hidden motives—either as a defense or a means of betrayal."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Confrontation, exposure, accountability, revelation, justice, honesty, unmasking, transparency",
+        "description": "The Seven of Swords suggests that deception will be exposed and urges accountability in your actions."
+      }
+    },
+    {
+      "name": "Eight of Swords",
+      "image": "https://i.ibb.co/F4MvgTxs/8Swords.jpg",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "Gemini",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Restriction, imprisonment, fear, limitation, confinement, entrapment, doubt, paralysis",
+        "description": "The Eight of Swords depicts feeling trapped or restricted by your own fears and limitations."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Liberation, empowerment, clarity, release, freedom, insight, breakthrough, renewal",
+        "description": "The Eight of Swords signals the breaking of mental bonds and a newfound sense of freedom."
+      }
+    },
+    {
+      "name": "Nine of Swords",
+      "image": "https://i.ibb.co/p6J8Brk9/9-Swordsjpeg.jpg",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Gemini",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Anxiety, hopelessness, nightmares, distress, worry, despair, dread, insomnia",
+        "description": "The Nine of Swords is a card of anxiety and distress, often reflecting worries that keep you up at night."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Relief, recovery, facing fears, courage, overcoming, resurgence, clarity, hope",
+        "description": "The Nine of Swords suggests that you are beginning to confront and overcome your deepest anxieties."
+      }
+    },
+    {
+      "name": "Ten of Swords",
+      "image": "https://i.ibb.co/ksHdH2fQ/10Swords.jpg",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Gemini",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Endings, betrayal, collapse, ruin, finality, defeat, downfall, termination",
+        "description": "The Ten of Swords signals the absolute end of a cycle, often accompanied by pain or a sense of betrayal."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Recovery, regeneration, new beginnings, rebirth, resurgence, healing, revival, opportunity",
+        "description": "The Ten of Swords offers the promise of regeneration and the opportunity to rebuild after a collapse."
+      }
+    },
+    {
+      "name": "Page of Swords",
+      "image": "https://i.ibb.co/tMGTcQ0W/Page-Swords.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Capricorn, Pisces",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Curiosity, vigilance, communication, alertness, observation, insight, learning, exploration",
+        "description": "The Page of Swords is energetic and curious, eager to learn and communicate ideas with a sharp mind."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Impulsiveness, defensiveness, miscommunication, rashness, overreaction, misunderstanding, insensitivity, volatility",
+        "description": "The Page of Swords warns of rash words or a tendency to be overly defensive in communication."
+      }
+    },
+    {
+      "name": "Knight of Swords",
+      "image": "https://i.ibb.co/hJtYsH60/Knight-Swords.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Gemini, Taurus",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Ambition, action, focus, drive, determination, momentum, decisiveness, energy",
+        "description": "The Knight of Swords charges forward with determination and focus, ready to pursue his goals with energy."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Impulsiveness, recklessness, lack of focus, disorder, haste, inconsistency, distraction, imprudence",
+        "description": "The Knight of Swords can indicate rash actions without thought, resulting in mistakes or setbacks."
+      }
+    },
+    {
+      "name": "Queen of Swords",
+      "image": "https://i.ibb.co/C3dqXVm1/Queen-Swords.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Libra, Virgo",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Perception, independence, clarity, wisdom, insight, honesty, acumen, sharpness",
+        "description": "The Queen of Swords is known for her sharp intellect, independence, and clear perception of the truth."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Coldness, cruelty, misinterpretation, harshness, detachment, bias, skepticism, rigidity",
+        "description": "The Queen of Swords may indicate a tendency toward harshness or a misinterpretation of the facts."
+      }
+    },
+    {
+      "name": "King of Swords",
+      "image": "https://i.ibb.co/67syyh1j/King-Swordsjpeg.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Aquarius, Capricorn",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Authority, discipline, truth, logic, fairness, judgment, reason, decisiveness",
+        "description": "The King of Swords embodies intellectual authority, discipline, and a commitment to truth and fairness."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Tyranny, rigidity, abuse of power, domination, inflexibility, oppression, misconduct, corruption",
+        "description": "The King of Swords warns of using power in a dictatorial way or being overly rigid in your judgments."
+      }
+    },
+    {
+      "name": "Ace of Cups",
+      "image": "https://i.ibb.co/1fNhsD18/Ace-Cups.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Love, compassion, creativity, emotion, intuition, joy, inspiration, renewal",
+        "description": "The Ace of Cups signifies an overflow of emotions and the start of a new, heartfelt journey in love and creativity."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Emotional blockage, emptiness, missed opportunities, stagnation, detachment, disconnection, withdrawal, unfulfillment",
+        "description": "The Ace of Cups warns of emotional stagnation or an inability to fully embrace your creative or loving potential."
+      }
+    },
+    {
+      "name": "Two of Cups",
+      "image": "https://i.ibb.co/0pH6hRfL/2Cups.jpg",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Cancer",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Unity, partnership, attraction, connection, harmony, balance, intimacy, union",
+        "description": "The Two of Cups represents a deep and harmonious partnership, marked by mutual attraction and shared feelings."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Disconnection, imbalance, separation, discord, fragmentation, isolation, estrangement, disunity",
+        "description": "The Two of Cups suggests disharmony or an imbalance in a relationship, signaling potential disconnect."
+      }
+    },
+    {
+      "name": "Three of Cups",
+      "image": "https://i.ibb.co/mCQSx8ZB/3Cups.jpg",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Cancer",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Celebration, friendship, community, joy, togetherness, socializing, merriment, camaraderie",
+        "description": "The Three of Cups celebrates friendship and community, highlighting the joy of shared experiences."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Overindulgence, isolation, cliques, exclusion, imbalance, fragmentation, excess, detachment",
+        "description": "The Three of Cups can indicate overindulgence or a feeling of exclusion within a social group."
+      }
+    },
+    {
+      "name": "Four of Cups",
+      "image": "https://i.ibb.co/ccGMqDCC/4Cups.jpg",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "Cancer",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Contemplation, apathy, reevaluation, introspection, disinterest, reflection, reconsideration, withdrawal",
+        "description": "The Four of Cups invites introspection and reevaluation of emotional needs, urging you to consider what truly matters."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Receptiveness, renewed interest, opportunity, engagement, openness, curiosity, revival, acceptance",
+        "description": "The Four of Cups suggests a newfound openness to emotional opportunities and a release from apathy."
+      }
+    },
+    {
+      "name": "Five of Cups",
+      "image": "https://i.ibb.co/LXHRwnTN/5Cups.jpg",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Scorpio",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Loss, regret, disappointment, sorrow, mourning, bereavement, despair, grief",
+        "description": "The Five of Cups reflects on loss and regret, urging you to acknowledge sorrow while looking for what remains."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Acceptance, recovery, moving on, healing, renewal, progress, adjustment, liberation",
+        "description": "The Five of Cups signals a turning point toward acceptance and the ability to move forward after loss."
+      }
+    },
+    {
+      "name": "Six of Cups",
+      "image": "https://i.ibb.co/PZyWhn2q/6Cups.jpg",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Scorpio",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Memories, nostalgia, childhood, reminiscence, innocence, sentimentality, joy, reflection",
+        "description": "The Six of Cups evokes nostalgic memories and a longing for the innocence of childhood, suggesting healing through remembrance."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Stuck in the past, unrealistic nostalgia, regret, fixation, longing, impediment, melancholy, reminiscence",
+        "description": "The Six of Cups warns against clinging too tightly to the past, which can hinder personal growth."
+      }
+    },
+    {
+      "name": "Seven of Cups",
+      "image": "https://i.ibb.co/ZpdxhXy1/7Cups.jpg",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Scorpio",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Opportunities, choices, illusion, fantasy, ambiguity, possibility, uncertainty, daydreams",
+        "description": "The Seven of Cups presents a variety of choices and possibilities, inviting you to discern between illusion and reality."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Indecision, overwhelm, disillusionment, confusion, paralysis, disappointment, muddle, frustration",
+        "description": "The Seven of Cups cautions against confusion and the inability to make clear choices."
+      }
+    },
+    {
+      "name": "Eight of Cups",
+      "image": "https://i.ibb.co/HfNgLZpY/8Cups.jpg",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "Pisces",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Abandonment, withdrawal, moving on, departure, letting go, transition, release, renunciation",
+        "description": "The Eight of Cups signifies a voluntary departure from a situation that no longer serves you, urging emotional growth."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Fear of change, stagnation, indecision, hesitation, inertia, uncertainty, blockage, resistance",
+        "description": "The Eight of Cups warns that an unwillingness to let go may lead to stagnation and missed opportunities."
+      }
+    },
+    {
+      "name": "Nine of Cups",
+      "image": "https://i.ibb.co/DPbCGgyp/9Cups.jpg",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "Pisces",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Contentment, satisfaction, gratitude, fulfillment, pleasure, joy, happiness, serenity",
+        "description": "The Nine of Cups is known as the wish card—it brings satisfaction and fulfillment, celebrating emotional contentment."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Complacency, greed, dissatisfaction, excess, overindulgence, unfulfillment, envy, discontent",
+        "description": "The Nine of Cups may signal that superficial fulfillment masks deeper dissatisfaction or greed."
+      }
+    },
+    {
+      "name": "Ten of Cups",
+      "image": "https://i.ibb.co/r2cC0Bwt/10Cups.jpg",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Pisces",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Happiness, fulfillment, family, bliss, unity, joy, contentment, harmony",
+        "description": "The Ten of Cups represents ultimate happiness and fulfillment in relationships and home life."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Broken relationships, unmet expectations, disconnection, discord, disillusionment, disappointment, estrangement, fragmentation",
+        "description": "The Ten of Cups may signal disharmony within the family or unmet emotional expectations."
+      }
+    },
+    {
+      "name": "Page of Cups",
+      "image": "https://i.ibb.co/XffWZbJQ/Page-Cups.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Libra, Sagittarius",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Curiosity, creativity, beginnings, inspiration, openness, playfulness, exploration, sensitivity",
+        "description": "The Page of Cups invites you to explore new creative ideas and emotional experiences with curiosity."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Emotional immaturity, naivety, insensitivity, inexperience, vulnerability, impulsiveness, inconsistency, fragility",
+        "description": "The Page of Cups warns of an immature or overly naive approach to emotional matters."
+      }
+    },
+    {
+      "name": "Knight of Cups",
+      "image": "https://i.ibb.co/CpzVTBN3/Knight-Cups.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Pisces, Aquarius",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Romance, charm, imagination, passion, allure, dreaminess, sensitivity, charisma",
+        "description": "The Knight of Cups is a passionate and charismatic figure, urging you to follow your heart and creative impulses."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Unrealistic idealism, moodiness, disappointment, volatility, impracticality, instability, detachment, inconsistency",
+        "description": "The Knight of Cups suggests that overidealization or emotional instability might be clouding your judgment."
+      }
+    },
+    {
+      "name": "Queen of Cups",
+      "image": "https://i.ibb.co/hxrXJjXf/Queen-Cups.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Cancer, Gemini",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Compassion, calm, comfort, nurturing, empathy, understanding, warmth, sensitivity",
+        "description": "The Queen of Cups embodies empathy and emotional understanding, offering comfort and nurturing energy."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Over-sensitivity, emotional manipulation, instability, moodiness, dependency, volatility, imbalance, inconsistency",
+        "description": "The Queen of Cups may indicate a tendency toward emotional manipulation or excessive sensitivity."
+      }
+    },
+    {
+      "name": "King of Cups",
+      "image": "https://i.ibb.co/Gv8k6R99/King-Cups.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Scorpio, Libra",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Emotional balance, control, generosity, wisdom, compassion, diplomacy, stability, support",
+        "description": "The King of Cups rules with compassion and wisdom, balancing emotion with reason and offering generosity."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Coldness, moodiness, manipulation, detachment, inconsistency, rigidity, insensitivity, imbalance",
+        "description": "The King of Cups might suggest difficulty in managing emotions, leading to moodiness or manipulation."
+      }
+    },
+    {
+      "name": "Ace of Wands",
+      "image": "https://i.ibb.co/pvYc1mKL/Ace-Wands.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Inspiration, growth, potential, spark, energy, initiation, creativity, ambition",
+        "description": "The Ace of Wands heralds the spark of inspiration and the start of a creative or energetic new venture."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of motivation, delays, stagnation, procrastination, inactivity, blockage, inertia, frustration",
+        "description": "The Ace of Wands warns of a blockage in creative energy or delays in launching new projects."
+      }
+    },
+    {
+      "name": "Two of Wands",
+      "image": "https://i.ibb.co/FbbMCGZm/2Wands.jpg",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Aries",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Planning, decisions, progress, strategy, foresight, ambition, determination, vision",
+        "description": "The Two of Wands urges you to plan carefully and consider your options as you prepare for future expansion."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Indecision, fear of change, stagnation, hesitation, uncertainty, delay, inaction, doubt",
+        "description": "The Two of Wands suggests a difficulty in making decisions or moving forward due to fear or uncertainty."
+      }
+    },
+    {
+      "name": "Three of Wands",
+      "image": "https://i.ibb.co/t5w3Bnk/3Wands.jpg",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Aries",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Expansion, foresight, opportunities, growth, vision, progress, planning, ambition",
+        "description": "The Three of Wands symbolizes the early stages of growth and expansion, encouraging you to look ahead and seize opportunities."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Delay, missed opportunity, lack of foresight, obstruction, postponement, setback, oversight, hesitation",
+        "description": "The Three of Wands warns of delays or missed opportunities due to a lack of planning or vision."
+      }
+    },
+    {
+      "name": "Four of Wands",
+      "image": "https://i.ibb.co/k2R4wxGv/4Wands.jpg",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Aries",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Celebration, stability, harmony, joy, unity, success, festivity, accomplishment",
+        "description": "The Four of Wands is a card of celebration and stability, marking milestones and the joy of shared success."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Instability, delayed celebrations, tension, discord, imbalance, conflict, unease, postponement",
+        "description": "The Four of Wands may indicate that celebrations are delayed or that there is tension disrupting harmony."
+      }
+    },
+    {
+      "name": "Five of Wands",
+      "image": "https://i.ibb.co/sdHJnfzD/5Wands.jpg",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "Leo",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Competition, conflict, rivalry, challenge, struggle, contest, discord, contention",
+        "description": "The Five of Wands highlights healthy competition and minor conflicts that spark growth through challenge."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Discord, lack of cooperation, chaos, disorder, disunity, turbulence, fragmentation, anarchy",
+        "description": "The Five of Wands suggests that conflict has escalated into discord or chaos, hindering progress."
+      }
+    },
+    {
+      "name": "Six of Wands",
+      "image": "https://i.ibb.co/Myqq0fM1/6Wands.jpg",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "Leo",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Victory, success, recognition, triumph, achievement, celebration, honor, acclaim",
+        "description": "The Six of Wands is a card of triumph, celebrating success and public recognition for your achievements."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Ego, failure, lack of recognition, defeat, oversight, neglect, disappointment, hubris",
+        "description": "The Six of Wands may indicate that success is elusive or that pride and ego are getting in the way."
+      }
+    },
+    {
+      "name": "Seven of Wands",
+      "image": "https://i.ibb.co/DHBw0XBL/7Wands.jpg",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Leo",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Perseverance, defense, resilience, bravery, determination, persistence, courage, fortitude",
+        "description": "The Seven of Wands calls on you to stand your ground and defend your position against opposition."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Insecurity, capitulation, vulnerability, yielding, weakness, submission, doubt, fragility",
+        "description": "The Seven of Wands warns that you may be giving in too easily or feeling overwhelmed by opposition."
+      }
+    },
+    {
+      "name": "Eight of Wands",
+      "image": "https://i.ibb.co/wNx572CK/8-Wandsjpeg.jpg",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Sagittarius",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Speed, movement, action, momentum, rapidity, progress, acceleration, dynamism",
+        "description": "The Eight of Wands signifies rapid movement and swift progress, with events unfolding quickly."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Delays, frustration, stagnation, hold-up, interruption, blockage, sluggishness, impasse",
+        "description": "The Eight of Wands indicates that anticipated progress may be delayed, leading to frustration."
+      }
+    },
+    {
+      "name": "Nine of Wands",
+      "image": "https://i.ibb.co/kgN9BLrw/9Wands.jpg",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "Sagittarius",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Courage, persistence, test of faith, endurance, resilience, determination, bravery, perseverance",
+        "description": "The Nine of Wands stands for resilience and the courage to keep fighting, even when faced with challenges."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Exhaustion, defensiveness, burnout, fatigue, depletion, vulnerability, collapse, weariness",
+        "description": "The Nine of Wands warns that you may be overly defensive or exhausted from constant battles."
+      }
+    },
+    {
+      "name": "Ten of Wands",
+      "image": "https://i.ibb.co/kjGhnMp/10Wands.jpg",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "Sagittarius",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Burden, responsibility, hard work, load, pressure, duty, toil, obligation",
+        "description": "The Ten of Wands indicates that you are carrying a heavy load or many responsibilities that require hard work."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Relief, delegation, release, easing, unburdening, relaxation, letting go, freedom",
+        "description": "The Ten of Wands offers the possibility of releasing burdens by delegating tasks or letting go of excessive responsibility."
+      }
+    },
+    {
+      "name": "Page of Wands",
+      "image": "https://i.ibb.co/4hC9BvC/Page-Wands.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Cancer, Virgo",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Exploration, enthusiasm, discovery, curiosity, initiative, adventure, optimism, innovation",
+        "description": "The Page of Wands embodies youthful enthusiasm and the spirit of exploration, urging you to try new ventures."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of direction, impatience, recklessness, aimlessness, impulsiveness, frustration, disorder, confusion",
+        "description": "The Page of Wands warns of impulsiveness or a lack of clear direction in pursuing your goals."
+      }
+    },
+    {
+      "name": "Knight of Wands",
+      "image": "https://i.ibb.co/kstLBb9w/Knight-Wands.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Sagittarius, Scorpio",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Energy, passion, adventure, vigor, dynamism, excitement, boldness, spontaneity",
+        "description": "The Knight of Wands charges forward with vibrant energy and a thirst for adventure, inspiring bold action."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Impulsiveness, recklessness, inconsistency, erratic, disorderly, unsteady, unpredictable, volatile",
+        "description": "The Knight of Wands may signal impulsive behavior or a lack of follow-through on your adventurous ideas."
+      }
+    },
+    {
+      "name": "Queen of Wands",
+      "image": "https://i.ibb.co/BV8cx38h/Queen-Wands.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Aries, Pisces",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Courage, confidence, determination, passion, vitality, assertiveness, warmth, ambition",
+        "description": "The Queen of Wands exudes warmth, confidence, and determination, empowering you to pursue your ambitions."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Arrogance, volatility, stubbornness, overbearing, inconsiderate, inflexible, egotistical, unpredictable",
+        "description": "The Queen of Wands may indicate an overbearing attitude or volatile emotions that hinder progress."
+      }
+    },
+    {
+      "name": "King of Wands",
+      "image": "https://i.ibb.co/Xkbfh8Hd/King-Wands.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Leo, Cancer",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Leadership, vision, honor, inspiration, charisma, initiative, drive, command",
+        "description": "The King of Wands represents visionary leadership and the ability to inspire others with his dynamic energy."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Impulsiveness, dictatorial, lack of discipline, recklessness, autocratic, disorder, instability, inconsistency",
+        "description": "The King of Wands warns of uncontrolled ambition or dictatorial behavior that undermines true leadership."
+      }
+    },
+    {
+      "name": "Ace of Rings",
+      "image": "https://i.ibb.co/LD3cnt7n/Ace-Rings.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Prosperity, opportunity, new venture, abundance, success, growth, potential, stability",
+        "description": "The Ace of Rings symbolizes a promising new beginning in the realm of material or financial prosperity."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Missed opportunity, instability, loss, decline, setback, insecurity, failure, deficit",
+        "description": "The Ace of Rings warns of lost opportunities or instability in your financial or material world."
+      }
+    },
+    {
+      "name": "Two of Rings",
+      "image": "https://i.ibb.co/LDMJHjPR/2Rings.jpg",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "Capricorn",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Balance, adaptability, prioritization, flexibility, juggling, coordination, efficiency, resourcefulness",
+        "description": "The Two of Rings shows that you are juggling responsibilities with adaptability and a sense of balance."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Overwhelm, disorganization, imbalance, chaos, mismanagement, disorder, confusion, instability",
+        "description": "The Two of Rings indicates struggles with managing multiple demands, leading to imbalance."
+      }
+    },
+    {
+      "name": "Three of Rings",
+      "image": "https://i.ibb.co/pjK5zFtK/3Rings.jpg",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Capricorn",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Teamwork, collaboration, skill, cooperation, craftsmanship, synergy, competence, integration",
+        "description": "The Three of Rings celebrates collaboration, craftsmanship, and the successful application of skills in a team setting."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of cooperation, poor planning, disunity, miscommunication, inefficiency, fragmentation, disorganization, setbacks",
+        "description": "The Three of Rings may suggest challenges in working with others or ineffective planning."
+      }
+    },
+    {
+      "name": "Four of Rings",
+      "image": "https://i.ibb.co/pB1KnxmQ/4Rings.jpg",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Capricorn",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Security, control, possession, stability, conservation, protection, accumulation, discipline",
+        "description": "The Four of Rings reflects a strong desire for stability and control over your material world."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Greed, insecurity, possessiveness, avarice, selfishness, hoarding, isolation, rigidity",
+        "description": "The Four of Rings warns of an excessive focus on material security that can lead to isolation or greed."
+      }
+    },
+    {
+      "name": "Five of Rings",
+      "image": "https://i.ibb.co/TxXcQLQG/5Rings.jpg",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Taurus",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Isolation, insecurity, financial loss, abandonment, hardship, poverty, struggle, deprivation",
+        "description": "The Five of Rings often indicates a period of financial or material hardship, leaving you feeling isolated."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Recovery, improvement, resourcefulness, renewal, rebuilding, resilience, aid, revival",
+        "description": "The Five of Rings offers a sign of recovery and the possibility of finding help in difficult times."
+      }
+    },
+    {
+      "name": "Six of Rings",
+      "image": "https://i.ibb.co/MDZmwLLD/6Rings.jpg",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "Taurus",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Charity, generosity, sharing, kindness, balance, support, giving, compassion",
+        "description": "The Six of Rings represents the balance between giving and receiving, highlighting generosity and support."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Inequality, debt, selfishness, imbalance, disparity, exploitation, shortage, mismanagement",
+        "description": "The Six of Rings warns of imbalances in give-and-take, possibly indicating selfishness or financial strain."
+      }
+    },
+    {
+      "name": "Seven of Rings",
+      "image": "https://i.ibb.co/YT4VgnVL/7Rings.jpg",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "Taurus",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Patience, investment, growth, persistence, cultivation, planning, progress, diligence",
+        "description": "The Seven of Rings encourages patience and steady investment, suggesting that your efforts will eventually yield rewards."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of progress, impatience, discouragement, frustration, stagnation, discontent, hasty, withdrawal",
+        "description": "The Seven of Rings may indicate impatience or frustration over slow progress, urging you to reassess your strategies."
+      }
+    },
+    {
+      "name": "Eight of Rings",
+      "image": "https://i.ibb.co/KcXhjhr9/8Rings.jpg",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Virgo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Skill development, apprenticeship, diligence, craftsmanship, focus, persistence, learning, refinement",
+        "description": "The Eight of Rings represents dedicated work and the mastery of a craft, emphasizing learning and refinement."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of focus, mediocrity, burnout, distraction, underachievement, fatigue, stagnation, sloth",
+        "description": "The Eight of Rings warns of losing focus or burning out due to overwork without meaningful progress."
+      }
+    },
+    {
+      "name": "Nine of Rings",
+      "image": "https://i.ibb.co/chw8QNY0/9Rings.jpg",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Virgo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Luxury, self-sufficiency, achievement, independence, elegance, reward, comfort, success",
+        "description": "The Nine of Rings celebrates the rewards of hard work, independence, and enjoying the fruits of your labor."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Overindulgence, isolation, financial setbacks, excess, imbalance, misfortune, disconnection, instability",
+        "description": "The Nine of Rings may signal that material success is overshadowed by isolation or excess."
+      }
+    },
+    {
+      "name": "Ten of Rings",
+      "image": "https://i.ibb.co/PvCmDJbx/10Rings.jpg",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Virgo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Wealth, inheritance, family, legacy, stability, prosperity, tradition, security",
+        "description": "The Ten of Rings represents the culmination of financial stability, legacy, and family security."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Family conflict, financial instability, loss, disruption, discord, breakdown, uncertainty, struggle",
+        "description": "The Ten of Rings warns of disruptions in family or financial matters that undermine long-term security."
+      }
+    },
+    {
+      "name": "Page of Rings",
+      "image": "https://i.ibb.co/2YqgJrTM/Page-Rings.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Aries, Gemini",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Manifestation, study, focus, potential, growth, learning, ambition, opportunity",
+        "description": "The Page of Rings is a messenger of new opportunities and encourages you to study and harness your potential for success."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of progress, distraction, immaturity, hesitation, confusion, inexperience, delay, disarray",
+        "description": "The Page of Rings can indicate a lack of focus or premature actions that hinder your growth."
+      }
+    },
+    {
+      "name": "Knight of Rings",
+      "image": "https://i.ibb.co/7JLTg4kK/Knight-Rings.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Virgo, Leo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Diligence, responsibility, efficiency, steadfast, methodical, hardworking, reliable, pragmatic",
+        "description": "The Knight of Rings embodies hard work, practicality, and persistence, urging you to stay steady on your path."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Stubbornness, laziness, inflexibility, procrastination, rigidity, indolence, passivity, inertia",
+        "description": "The Knight of Rings may warn of becoming too rigid or even lazy, impeding progress."
+      }
+    },
+    {
+      "name": "Queen of Rings",
+      "image": "https://i.ibb.co/9kJsLJ2h/Queen-Rings.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Capricorn, Sagittarius",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Practicality, nurturing, security, stability, warmth, resourcefulness, care, abundance",
+        "description": "The Queen of Rings is a nurturing figure who combines practicality with a caring nature to create a secure environment."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Overbearing, materialistic, neglectful, domineering, selfish, inconsiderate, rigid, unbalanced",
+        "description": "The Queen of Rings might indicate a focus on material matters to the detriment of emotional or personal care."
+      }
+    },
+    {
+      "name": "King of Rings",
+      "image": "https://i.ibb.co/Cpjkb5vR/King-Rings.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "Taurus, Aries",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Abundance, leadership, stability, prosperity, authority, success, solidity, reliability",
+        "description": "The King of Rings represents success, financial security, and a commanding presence in the material realm."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Tyranny, stubbornness, poor financial decisions, mismanagement, rigidity, avarice, risk, imprudence",
+        "description": "The King of Rings warns of mismanagement of resources or an overemphasis on material control."
+      }
+    }
+  ],
+  "Oracle": [
+    {
+      "name": "Aquarius",
+      "image": "https://i.ibb.co/7NJ306rL/Aquarius.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Water Bearer, The Clouds, The Pot, Numbers 11 and 2, Uranus, Air, Wonder, Travel, \"The Star\"",
+        "description": "The eleventh sign of the zodiac, Aquarius is a fixed air sign ruled by the planet Uranus, and in the body is associated with the circulatory system, calves and ankles. In tarot, Aquarius is related to \"The Star\", and much like \"the Star\", it seeks adventure, new experiences, and sacred knowledge with an air of optimism. The water-bearer is a traveler both physically and mentally, exploring new vistas and ideas.\n\nAquarius, ever the rebel, is struck by wanderlust and regards satiating its own curiosity as a top priority. It concerns itself with passion, progress, and knowledge. This card may also suggest that we need to be aware of our ambitions and attempt to keep ourselves in line with reality."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Apotheosis",
+      "image": "https://i.ibb.co/Rk7N7bmB/Apotheosis.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Haloed Light, Smoke, Numbers 32 and 5, Completion, Actualization",
+        "description": "The tendrils of Apotheosis envelop the figure, gently wrapping about the body, leaving its eyes clear and unobscured as the light illuminates all that surrounds it. The halo around the head symbolizes the heightening of our consciousness. This card explores the need for clarity, completion, and self-reliance. The conscience has found itself in an elevated state, and slowly we work toward the ever-evolving apex of who we are.\nThis card encourages us to pursue our highest and most realized selves and expand our mental horizons. Inversely, it can suggest spiritual and mental obstacles are stopping us from reaching our full potential."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Ares",
+      "image": "https://i.ibb.co/DPWqx8Lh/Aries.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Flame, The Head, Number 1, Mars, Fire, The Ram, Vitality, Beginnings, Power, \"The Magician\"",
+        "description": "The first sign of the zodiac, Ares, is a cardinal fire sign. Associated with fortitude and the manifestation of new ideas, Ares brings with it the ability to take on new tasks zealously and with great ambition. In this deck, Ares is most closely associated with \"The Magician\" tarot card. Ares is ruled by the planet Mars and governs the head, and while it burns bright, it's energy can be temperamental if not honed and aimed carefully. It can be prone to fizzling out before seeing things through to completion - much like a candle. \n\nAres symbolizes novelty, creativity, fast-moving projects, drive, and valour. It can also imply shortsightedness, overextending oneself, rash behavior and other fleeting instincts."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Armour",
+      "image": "https://i.ibb.co/67mVchKn/Armour.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Caucasus Beetle, Wood Apple, Daggers, Numbers 18. 10 and 1, Protection, Withdrawl, Solace, Isolation",
+        "description": "Protection and boundaries are deeply necessary when leading a grounded life. However, some barriers can operate to our detriment, causing us to push ourselves away from others or isolate ourselves. What things do we seek protection from? What facets of ourselves do we hide away? What is the nature of our boundaries? At what times do we need to pull back, seek solace, and reorient ourselves without the input of others? This card explores the nature of peace, protection, and isolation. It can suggest a need to reinforce one's space and peace, a struggle for independence and privacy, or imply that an individual is withdrawing away from others and the world."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Blooms",
+      "image": "https://i.ibb.co/0yqKrYKS/Blooms.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Sunflowers, Numbers 42 and 6, The Sun, Optimisim, Warmth",
+        "description": "The figure depicted in the Blooms card stands straight, noble, and proud. This card encourages us to take note of the things that are growing around us - what has been sown, and what has been reaped. It is important to recognize the effort that goes into a successful harvest, and be grateful for the collaboration, patience, and love needed in order to help our ambitions flourish. Blooms asks us to be grateful, gracious, and mindful of all the hard work that has been done, and that that remains to be done. It can also imply foolhardy optimism and biting off more than one can chew."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Cancer",
+      "image": "https://i.ibb.co/GvfsgCP9/Cancer.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Moon, The Stromach, Water, Number 4, Inuitation, Compassion, \"The Moon\", \"The High Priestess\"",
+        "description": "The fourth sign of the zodiac, Cancer is a cardinal water sigh and is affiliated with the stomach, chest, womb and the midsection. Cancer is a deeply intuitive card, able to move between two worlds (the water and the earth). However, it is also prone to \"wading\" through self imposes melancholy. Cancer is associated with \"The Moon\" and the \"The High Priestess\", both cards governed by its ruling planet, the moon.\n\nCancer encourages us to pay attention to our gut instincts, see past the illusions of this world, pay heed to our emotions, and nurture and protect that which we cherish. It can also imply a near-smothering nature, over-sensitivity, and hyper-vigilance."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Capricorn",
+      "image": "https://i.ibb.co/dsfhwh3R/Capricorn.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Hourglass, The Scroll, Numbers 10 and 1, Saturn, \"The Devil\", \"The World\"",
+        "description": "The tenth sign of the zodiac, Capricorn is a cardinal earth sign known to rule the skeletal system and joints. Capricorn is also commonly associated with the planet Saturn, and \"The Devil\" and \"The World\" in tarot. Much like the skeletal system, Capricorn prides itself on being the foundation of a strong and capable form. Being the tenth sign of the zodiac, Capricorn finds itself towards the end of the astrological cycle. As the sand within the hourglass falls upon Capricorn, it remains undeterred. This card is studious, rigorous, and almost serene.\n\nCapricorn requests we dig our heels in and do the hard work of acknowledging that while we may not have all the time in the world, we must make the most of what time we have."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Dancers",
+      "image": "https://i.ibb.co/N63PC4Nj/Dancers.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Jago, The Dancers, Numbers 36 and 9, Momentum, Bliss, Awakening",
+        "description": "In Punjabi marriage rituals, the jago ceremony is a prelude to the main events, symbolized by an earthenware pot decorated with candles. Carried atop the heads of the dancers, the word \"jago\" literally translate to \"awaken\" as family members traditionally go from home to home in their villages, awakening members in the early morning to alert them to a marriage being set. The dancers here are present to notify us of new phases in our lives, and bring with them their motion, songs, and joy. This card encourages us to awaken, be blissful, and express gratitude for our many evolutions. It can also suggest momentum, and very fast-paced change."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Desciple",
+      "image": "https://i.ibb.co/p6Fvq3x4/Disciple.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Lotus, The Daggers, The Eye, Numbers 23 and 5, Introspection, Patience, Guidance",
+        "description": "The Disciple sits upon the clouds with their right hand raised in a banishment gesture, while a lotus is cupped in their other palm. This figure seeks wisdom and guidance as they gaze inward and beyond, hoping to see past the illusions of this world. However, The Disciple is not untethered from the earth, as indicated by the lotus on their person. The student sees all things, material and immaterial, and the place they occupy in the greater universe. This card concerns itself with learning, patience, and an even temperament. It can also imply a need to stop oneself from completely disconnecting from the world, and to seek new mentors in the form of divinity, individuals, and the elements."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Divinity",
+      "image": "https://i.ibb.co/TDhjBXbp/Divinity.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Candles, Death's-Head Moth, Numbers 48 - 12 - and 3, Death and Rebirth",
+        "description": "Divinity burns, righteous. Fire is a life-giving element, but it us just as capable of taking it away. Divinity asks us questions about what makes this life precious and fragile. The death's-head moth is delicate, hovering on the precipice between life and death. What powers operating outside of our control lend meaning to our lives and the universe? What do we exalt? To whom do we pray? The games the universe seems to play with us are confusing at times, and they can feel unavoidable. This card suggests a need for broadening one's perspective to see the sacred in all forms of life around us. It also suggests larger forces at constant play."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Effigy",
+      "image": "https://i.ibb.co/hxbM9b0R/Effigy.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Fire, Numbers 27 and 9, Anger, Despair, Discord",
+        "description": "Effigies in the traditional sense are crude impersonations of a despised person made of straw, fabric, or any other materials. These creations are then burned or abused - typically to express displeasure with the person in question. This card asks us questions about our frustration and anger: is it narrowed and specific? Are signs pointing to a distinct person or circumstance? Do we find ourselves the subject of vitriol in another's eyes? What forces are at play that manipulate our emotions? The Effigy implies frustration, fury, and pointed dislike or despair. It can also signal misdirected anger, breakdowns in communication, and making an idol of one's fury."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Eternity",
+      "image": "https://i.ibb.co/ynPftKjN/Eternity.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Sacred Fig Tree, Clouds, Numbers 33 and 6, Evolution, Transformation, Connection",
+        "description": "The sacred fig is a tree that has long been associated with divinity, and here it is pictured not in the ground, but floating above, its roots entwined with the clouds. Eternity moves, forward and backward, stretching on into infinity and deeply connected to all that operates withing it. While things do not entirely disappear, they do transform, and much like us evolve into something new. The sacred fig is a life-giver, but also a teacher, and its slow, steady transformation reminds us that not all growth is immediately visible. This card wants us to interrogate our relationship to what we consider permanent. On a long enough timeline, all things grow, decay, and change."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Father",
+      "image": "https://i.ibb.co/nMTYZnRL/Father.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Stars, Light, The Child, Numbers 29 - 11 - and 2, Curiousity, Authority, The Elements of Air and Fire,",
+        "description": "The paternal figures in The Father and The Mother operate as sort of symbolic portal - the passages by which consciousness enters the world. The figure of The Father cradles a child in its arms whilst reaching up toward the stars, enshrouded by clouds. This card is associated with the elements of air and fire, and relays the need for wisdom, curiosity, and sanctuary. This card can imply a need to expand one's horizons, explore new fascinations and ideas, and a desire to feel protected doing so. Inversely, it can also suggest struggling with authority and feeling stifled."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Gate",
+      "image": "https://i.ibb.co/C3YgxbQ6/Gate.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Scythes, The Barred Gate, Numbers 18 and 9, Barriers, Boundraries, Obstacles",
+        "description": "The Gate preoccupies itself with obstacles, boundaries, and barriers. This card asks us questions about the circumstances that block the way forward. Before a gate stand two figures, their scythes crossed, implying some of our hurdles to entry can also be deadly or formidable in nature. What gates and boundaries do we establish to keep ourselves safe? What thresholds must we cross in order to grow and make ourselves anew? What holds us back? This card asks us to pay attention to the barriers we erect around ourselves and our opportunities, and the obstacles in our way. It can also imply hiding, stalling, or an inability to move forward."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Gemini",
+      "image": "https://i.ibb.co/tTZgMdNf/Gemini.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Twins, The Arms, The Clouds, Number 3, Mercury, Air, Duality, \"The Lovers\" , \"The Devil\"",
+        "description": "The third sign of the zodiac, Gemini is a mutable air sign ruled by the planet Mercury. It is associated with communication, duality of thought, and the pursuit of knowledge. Gemini rules the arms, hands, and nervous system. It seeks to reach out, touch, and understand the world on its own merits, through its own experiences and means. Gemini is associated with both \"The Lovers\" and \"The Devil\" in tarot - both which feature the same two figures, entwined, whether it through devotion or vice.\n\nGemini explores dichotomies in thought, curiosity, and the ability to parse extreme highs and lows. It can also be associated with duplicity, deceit, and masking one's true emotions or intentions."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Harmony",
+      "image": "https://i.ibb.co/C5SQBCNG/Harmony.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Bee, Honeycomb, Numbers 21 and 3, Rhythm, Divine Plans",
+        "description": "Harmony is a card that asks us to interrogate our relationship with order, structure, and rhythm. There are specific patterns and harmonies we find ourselves falling into that create the framework and structure of our lives - much like the bees in their hives that operate seamlessly and instinctively. What is our relationship with order? What machinations operate in the background of our lives? \nThis card can imply a need to reevaluate habits and take note of what actions are more or less harmonious in our lives. It can also suggest overbearing authority, anxiety, hostility, and friction."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Knife",
+      "image": "https://i.ibb.co/V0wZ8gXv/Knife.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Dagger, Swan, Tigers Head, Clouds, Numbeers 45 and 9, Defense, The Element of Air",
+        "description": "The Knife signifies action, pain, conflict, intellect, and ambition. The fabricated tigers jaws close around the head of the swan on the handle of the dagger, emphasizing the nature of strife and calm acceptance. A knife can be used both as a tool and a weapon, and this duality emphasizes the ways we can wield power.Do we aim to destroy or build? To protect or harm? This card explores the nature of power, struggle, protection, and ambition. It can also imply violence, anger, and danger."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Leo",
+      "image": "https://i.ibb.co/mFFZcLsH/Leo.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Sun, The Heart, Number 5, Fire, Pride, Glory, Warpth, \"Strength\", \"The Sun\"",
+        "description": "The fifth sign of the zodiac, Leo is a fixed fire sign, and this brash, courageous, headstrong lion rules the heart. Leo's dedication to its emotions and ideals can border on zealotry but is a card that sincerely concerned with matters of courage, honour, and pride. In tarot, Leo is associated with \"The Sun\" and \"Strength\" (its ruling planet being the sun), and much like the two major arcana cards it radiates optimism and tenacity.\n\nLeo seeks to elevate itself to its highest potential, and reflects our need for recognition and gratitude. It can also suggest being burdened by one's ego and struggling with selfishness., and attempting to make room for others and their perspectives and dreams."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Libra",
+      "image": "https://i.ibb.co/1GFQQGHQ/Libra.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Clouds, Shoulder Pole, Number 7, Venus, Equality, Indecision, The Scales, \"Justice\"",
+        "description": "The seventh sign in the zodiac, Libra is a cardinal air sigh and governs the lower back, kidneys, and glutes - stabilizing the body. Ruled by the planet Venus, it is often associated with love and attachment, and is affiliated with the tarot card \"Justice\" - a direct contemporary to the scales of Libra. The carrying pole over the figure's shoulder turns them into a type of scale as they balance the contents, which is apt - Libra is entirely concerned with the nature of balance.\n\nLibra is about resolving conflicts, perusing equality, and seeking reciprocal attachment. However, it can also be associated with indecision, as taking on too many perspectives can leave it incapable of drawing conclusions."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Light",
+      "image": "https://i.ibb.co/bVdF7Pj/Light.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Sun, Moon, Stars, Number 0, Energy, Life, Warmth, Endless Possibility",
+        "description": "The only means as by which mirrors reflect images is through the presence of light. The moon reflects the light of the sun as it does not produce any light of its own. The sun operates as our planet's primary source of light, and the warmth  by which all life is made possible. The light of the stars reaches us after thousands of years of travel, further reinforcing The Light's associations with momentum, life-affirming energy, and warmth.\n\nThe presence of this card is pervasive throughout the deck, and is intended to facilitate the ability to reflect upon the other cards - simultaneously casting light into out shadows, and making the presence of shadows possible."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Longing",
+      "image": "https://i.ibb.co/VYDqgW02/Longing.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Lychee, The Flesh, Numbers 43 and 7, Desire, Distance, Romance",
+        "description": "Longing is a state we embody in the physical world. As such, a hand of flesh - not bone - holds onto a stem of lychee, a fruit typically associated with love, desire and desire. What we wish for is so often here, in the material world, but this card asks us to investigate our other desires as well. The fruit may rot and the flesh may rend from bone, but what of the longing? Do we long for material items, romance, family, friendship? Glory, status, or acknowledgement? How does it motivate us, and to what end? This card can imply distance, deep-seated love, and loneliness. It can also suggest superficiality, materialism, and delusion."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Messengers",
+      "image": "https://i.ibb.co/xqK10Vfb/Messengers.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Swallowtail Butterflies, Numbers 16 and 7, Communication, Acceptance, Openness",
+        "description": "The butterfly has long been associated with change, hope, and growth. Swallowtail butterflies in particular have been linked with communication between our world and that of the spirits and the dead. The Messengers inquires as to whether one is open, receptive, and willing to interpret the signs being relayed to them, for one's personal or spiritual growth. What forces are at work around us? What signs have been relayed? What changes need to be made in one's life, and how does instinct play into what needs to be done?\nThis card calls us to pay attention to signs, symbols, and patterns in our lives. It can also imply we are ignoring overt messages or being willfully ignorant."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Miasma",
+      "image": "https://i.ibb.co/VGf0cjC/Miasma.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "House Crows, Smoke, The Moon, Numbers 20 and 2, Uncertainty, A Lack of Clarity",
+        "description": "Miasma explores that which clouds and distorts our vision. A myriad of things can limit our understanding of situations, people, and circumstances, and our vision can become further distorted as the obstacles in our path continue to mount. This fog is temporary, however, and will lift - it is a matter of patience, watching, and waiting. This card suggests a need to break away, reconvene, and seek truth. It can also suggest gross oversights, misinterpretation, and gullibility. One must be careful not to fall victim to the clouded images in their wake."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Mirage",
+      "image": "https://i.ibb.co/LdT2Fhsh/Mirage.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Anemone, Numbers 31 and 4, Illusions, Disorted Vision",
+        "description": "The Mirage asks us questions about the illusions of this world. The smoke and mirrors of this life shroud reality that we and the others around us experience. What is real? What is fabricated? To what degree do we engage in fabrication in order to lead a very specific kind of life? Flowers bust forward from the eye-sockets of the skull depicted, painting a very specific picture. The anemones depicted in the card open in the morning and close at night, much like blinking - what do we miss when our eyes are closed?\n\nThis card explores our relationship to the truth, and the ways in which we can distort, shift, and pull away from it. It can also suggest deception."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Mirror",
+      "image": "https://i.ibb.co/kVhDNxNy/Mirror.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Mirror, Numbers 49 -13- and 4, Reflection, Contemplation",
+        "description": "The final card of the oracle deck, The Mirror has reflected all things made visible by \"The Light\" - card zero to card forty-nine. It asks us to consider our energy, actions, thoughts, and to meditate upon past circumstances in our eyes that impact us in the present. A mirror affords us the opportunity to see the passage of time, and reflections act as a portal. Today, the mirror and its reflections have cemented themselves in our lives more than ever; we must ask ourselves how do we operate within their confines. How do we function with image, idolatry, vanity and introspection? This card focuses on the deep-seated need for contemplation and reflection. It can also imply illusion, inversion, and obsession."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Mother",
+      "image": "https://i.ibb.co/b59h93ZQ/Mother.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Water, The Child, Numbers 30 and 3, Nurturing, Creation, The Elements of Water and Earth,",
+        "description": "The figure of The Mother cradles a child in their arms while sitting in water, gazing long in the distance as if assessing for the child's safety. This card is associated with the elements of water and earth, the primary providers of life on our planet. It explores themes of nurturing, protection, sacred knowledge, creation, invention, transformation, and patience. \n\nThis card is deeply associated with the passage of time, and encourages us to take note of time's transitions and the stages we pass through over the course of our lives. In what ways do we evolve and grow?"
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Mourners",
+      "image": "https://i.ibb.co/RkR1JnXh/Mourners.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Moon, Wisteria, Numbers 37 - 10 - and 1,Grief, Burden, \"The Tower\"",
+        "description": "The Mourners card is associated with the tarot card \"The Tower\". Much like \"The Tower\", The Mourners asks us questions about the nature of the calamity and grief. It isn't just individuals that we mourn - we also mourn phases of our lives, the person we once were, and the life paths we have diverged from. Mourning is an individual and private experience for many, but it is important to take hold of one another in order to lessen the burden of our grief. The Mourners hold on to one another in direct juxtaposition to \"The Dancers\". The Mourners are entwined with each other as though they were one. This card asks us questions about the role grief plays in our lives. It can also suggest suffering, confusion, and loneliness."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Offerings",
+      "image": "https://i.ibb.co/7Jd0H2PJ/Offerings.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Water, Cupped Skull as Vessel, Numbers 15 and 6, Forgiveness, Truth-Seeking, The Suit of Cups",
+        "description": "Offerings is associated with the suit of cups and the element of water. This card navigates the nature of ritual, forgiveness, the pursuit of the truth, and the ask of requesting assistance and fortune. What are the many trades and exchanges that we offer to ourselves, the universe, and others in the pursuit of what we desire? What must be given or relinquished in order to change our circumstances? It is important to humble oneself before requesting anything of the universe. This card suggests a need to release - habits, items, ego, or individuals. It can also suggest a need to pay homage and express gratitude for all that one has, and ensure that we do not take our good fortune for granted."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Path",
+      "image": "https://i.ibb.co/JVFnmQP/Path.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Cane, The Path, The Moon, Numbers 19 and 20, Journeys, Foresight,",
+        "description": "A figure stands at the end of a winding path, gazing into the distance as the moon shines overhead. This card follows \"The Gate\", implying the traveler has made it past their initial barriers. Now all that remains is a long road ahead and the many forks and choices that follow. What is it that we're seeking? Is the road ahead easy, or will we find ourselves transversing even more obstacles? While the future can be uncertain, the path laid before us implies others have walked it before. The Path is a card that concerns itself with the art of projection and foresight. It can also imply overanalyzing, catastrophizing, or finding oneself paralyzed by possibilities."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Phases",
+      "image": "https://i.ibb.co/hJMjNBtW/Phases.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Luna Moth, The Moon, Numbers 24 and 6, Transformation, Cycles",
+        "description": "Like the moon, many things in our lives operate in cycles as they change. For some, these cycles are predictable, timely, and orderly. For others, they can be so erratic they are not even viewed as cyclical unless one takes the time to step back and observe the patterns taking place. Some cycles can feel cruel in how brief they are; the luna moth lives approximately a week as an adult and does not feed in this time, laying their eggs and breeding before passing away. What are the phases of our lives, and what new transitions do we find ourselves in the midst of now?\nPhases reminds us that we are always transforming. It can also suggest that we are not making room for the natural order of things."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Pisces",
+      "image": "https://i.ibb.co/jvTM7T8S/Pisces.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Twin Fish, The Sea, The Moon, Numbers 12 and 3, Water, Contemplation, Neptune, \"The Moon\"",
+        "description": "The twelfth and final sign of the zodiac, Pisces is a mutable water sign, associated with the planet Neptune. In tarot, it governs \"The Moon\" card, and on the human body it rules the feet. Pisces is a culmination of the astrological cycle, and as a result this card is very introspective. The twin fish imply an ability to harmoniously contain multitudes, while also being in perpetual motion with one another. They also exhibit a high sensitivity and deep empathy for all that has come before them. \n\nPisces requests we recognize the many lessons in the life cycle, and patiently keep our minds and hearts open too synthesize our dreams and sensitivities. It can also imply pessimism and aimless wandering."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Plea",
+      "image": "https://i.ibb.co/jP7wJmRp/Plea.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Palm, The Eye, The Halo, Numbers 34 and 7, Seeking Help and Truth, Need",
+        "description": "The Plea is a card concerned with our relationship to that which we ask of ourselves, others, and the universe. The palm reaches upward, haloed, while the eye suggests a need to be discerning of what one wishes for. What are our desires? What remains just out of reach? What are the things we require above all else in order to find ourselves at peace, and how are we working toward those things mentally, physically, and spiritually? In times of great pain or struggle, what do we ask for? What do we need? This card can imply a desire to reach out to others to seek help, fulfillment, and support. It can also suggest overreacting, begging, and impairing oneself."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Prayer",
+      "image": "https://i.ibb.co/bMyn4BBF/Prayer.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Halo, Stars, Tiled Floor into Infinity, Numbers 13 and 4, Higher Thinking, Foucs, Intention",
+        "description": "The Prayer asks us to take stock of what we consider worthy of worship. This card focuses on the nature of intention, elevating our bodies and minds spiritually and physically, and noting the things we ask of the universe, divinity, and each other. To what do we pray and set intentions? What do we revere and consider greater than ourselves? What is the nature of the things we ask for: protection, love, warmth, forgiveness, wealth? The floor of the card stretches to infinity, and we find the possibilities of growth and change are endless as a result. This card is associated with power, reverence, and humility. It can also imply selfishness and greed."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Pride",
+      "image": "https://i.ibb.co/mF5tdZ1P/Pride.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Peacock, Numbers 26 and 8, Esteem, Power, Beauty, Arrogance",
+        "description": "The peacock is widely associated with pride in many cultures. In Asian folklore it is said that despite its great beauty, the peacock has \"ugly\" feet, and the bird despairs over them every time it gazes down at them. A symbol of beauty, esteem, wisdom, and power, the peacock is also commonly associated with arrogance and short-sightedness. What does our pride blind us to? What facets of ourselves do we ignore? To what degree are we victims of our own egos? This card navigates our relationship with pride. How can it benefit and fortify us, and in what ways might it make us more prone to oversights due to arrogance and ignorance?"
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Radiance",
+      "image": "https://i.ibb.co/gLTDD0FL/Radiance.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Candles, Flame, Sunflowers, Numbers 46 - 10- and 1, The Suit of Wands, Element of Fire, Growth",
+        "description": "Radiance concerns itself with warmth, acceptance and growth. In tarot, it is associated with the suit of wands., sand as such, Radiance retains the ambitious, fiery persistent energy of the suit. Radiance glows outwards and casts its light upon all that we touch. In what ways can we extend our warmth, gratitude, and ambitions to the circumstances and individuals in our lives? This card is associated with creation, manifestation, and positivity. It can also imply carelessness and a near-foolish amount of optimism."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Sacrifice",
+      "image": "https://i.ibb.co/FLCg1cdV/Sacrifice.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Black-Naped Hare, Intenstines, Blood, Numbers 38 - 11- and 2, \"The Hanged Man\"",
+        "description": "The black-naped hare looks sightlessly into the distance.The end of life affords us visions no other experience can, and these visions are endured by the individual alone. The Sacrifice explores the things we must sever, cull, and change in order to move forward from one life to the next. As we distance ourselves from the previous state of being, we are able to see what once was with new eyes and clarity. This card requests that we reprioritize, take stock of whats present, what will remain, and what must be removed in order to move forward. This card implies a need to grow, transform,and submit. It can also imply martyrdom, mutiny, and a disregard for oneself and others."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Sagittarius",
+      "image": "https://i.ibb.co/JRzjMScm/Sagittarius.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Bow and Arrow, Flames, Number 9, Fire, Dedication, Novelty, Jupiter, \"Temperance\"",
+        "description": "The ninth sign of the zodiac, Sagittarius is a mutable fire sign and is ruled by the planet Jupiter. On the body, Sagittarius governs the thighs and legs, and that is reflected in the nature of the sign; perpetually moving and propelling itself -forward when it comes to new ideas and ventures. In tarot, it is associated with the \"Temperance\" card as they are both deeply philosophical and novel, constantly in flux like the liquid that pours back and forth from \"Temperance's\" cup. Dynamic and ready to strike, Sagittarius pulls back its arrow and narrows its focus.\n\nSagittarius concerns itself with movement, flow, and dynamism. It also can suggest a need to slow down, reevaluate, and rest."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Scorpio",
+      "image": "https://i.ibb.co/q38TPcRV/Scorpio.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Scythe, Scorpion's Tail, Lotus, Water, Number 8, Mars, Pluto, Transformation, \"Death\"",
+        "description": "The eighth sign of the zodiac, Scorpio is a fixed water sign and rules the pelvis, hips, and reproductive system. It is governed by the planets Mars and Pluto, and is most closely associated with the \"Death\" tarot card. While Scorpio and \"Death\" are both formidable and intimidating at times, this card is truly most concerned with the art of transformation. Scorpio creates, destroys, and reinvents. Like the lotus present on the card, beauty and new growth rises from the mire and mess of life.\n\nScorpio seeks to take inventory of what is present in its life, what must be retained, and what must be culled. Being a card of transformation, Scorpio sternly acknowledges that we must change."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Snare",
+      "image": "https://i.ibb.co/pj7ySNsC/Snare.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Orb Spider, Web, Files, Numbers 44 and 8, Entrapment, Stagnation",
+        "description": "The orb spider traps unwitting flies in its web, dooming victims to the cold inevitability of death. The Snare asks us to reflect upon our roadblocks, the things we feel trapped by, and the roles we feel we cannot break free of. What limitations have we set upon ourselves, and how have they made us stagnate? What fears and anxieties stop us in our tracks and prevent ourselves from feeling as if we can move forward? How threatening are these snares - which are grounded in reality, and which are exaggerated? This card suggests the feeling of being confined in one space or mindset, or or halted in one's progress. It can also suggest sabotage, deceit, and being driven into a corner."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Soldier",
+      "image": "https://i.ibb.co/Wv4zKGsC/Soldier.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Sword, Numbers 35 and 8, Planning, Conquering, Vitality",
+        "description": "Sitting at quiet ease, The Soldier is contemplative, composed, and patient. While the Soldier has the opportunity to enact great violence, it is at the discretion of that which directs them. From who do we take our orders and directives? Do we defer to our egos, our superiors, or something greater and far more obscure? The Soldier is, in this fashion, an extension of that which commands it. Who is in control? This card suggests a need for authority, structure, stability, and a desire to move forward with clear direction. It can also imply suppression and confinement."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Song",
+      "image": "https://i.ibb.co/b5W4k8sm/Song.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Lotus, The Rabab, Numbers 47 -11 - and 2, Rhythm, Motion",
+        "description": "Often when we think of the universe, we first think of light- but there is also song. The Song brings the idea of universal sound and rhythm into the forefront. What are the sounds that permeate our spaces and our minds? What is our inner dialogue relaying to us? In the absence of other sounds, humans will hear the inner workings of their body. What is the steady beat of our heart trying to tell us?\nThe Song asks us to focus on our surroundings, and the things in motion producing sound around us at all times. Much like absolute darkness, absolute silence is incredibly hard to find. We are never quite alone."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Strife",
+      "image": "https://i.ibb.co/sdFfLmJZ/Strife.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Sword, The Clouds, Numbers 22 and 4, Struggle, The Suit of Swords, The Element of Air",
+        "description": "Strife is closely associated with the suit of swords and the element of air. The figure envelopes their arms around themselves, their spine replaced with a blade, implying that our struggles are not just external, but internal. What do we find ourselves grappling with? What brings us into the midst of conflict pain, frustration, and misunderstanding, and how do we navigate these trials?\nIt is inevitable that we will all experience a variety of emotions, struggles, and discord in our lives, so it is best to recognize who we are and who we want to be should conflict arise. This card can also suggest inner struggle, pessimism, and tension."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Talismans",
+      "image": "https://i.ibb.co/MDdRrwWF/Talismans.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Dagger, Coins, Cup, Branch, Numbers 17 and 8,The Tarot Suits of Cups Wands Swords and Pentacles,",
+        "description": "All four suits of the tarot are present in this card.As such, Talismans is an amalgamation of the four elements associated with the suits: earth, water, fire, and air. Talismans are often associated with protection, but they are also symbols intended to convey very specific messages. What things do we pull towards us to provide protection and comfort? What empowers us? What in our vicinity or on our person serves as a reminder of who we are and how we must live? This card asks us meditate on what people, objects, or beliefs we hold close to our hearts and seek out when we are in need. It can also imply an over-attachment to idols and a need to pursue self-reliance and power."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Taurus",
+      "image": "https://i.ibb.co/fdwM0cKH/Taurus.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Horns, The Throat, Bramble, Number 2, Venus, Earth, The Bull, Loyality, \"The Hieorphant\"",
+        "description": "The second sign of the Zodiac, Taurus is a fixed earth sign. Taurus rules the throat, and is known for strong, steadfast values and an unwavering commitment to its own values. Taurus is a creature of the earth, and therefore grounded to the affairs of the world. Much like its ruling planet, Venus, it pursues love, beauty, and serenity. Much like \"The Hieorphant\" of tarot, Taurus is a teacher.\n\nTaurus can be interpreted as encouraging individuals to consider their values and dive deep into their structure and significance. It can also be associated with a stubborn commitment to ideals, and an unwillingness to embrace change."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Tethers",
+      "image": "https://i.ibb.co/VWKW0KZ7/Tethers.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Arms, Numbers 25 and 7, Suit of Rings, The Earth Element, Attachment",
+        "description": "Tethers questions us about our relationship with attachment. As it is associated with the earth and the tarot suit of rings, Tethers concerns itself with earthly matters such as the state of our relationships with life and this world. What are the things that keep us grounded? Inversely, what are the attachments that can impede our spiritual development - our pride, greed, fear or caution? This card implies a need to interrogate what we consider fundamentally important in our lives and what tethers us to this reality. It also requests that we make room for the ability to detach and be more objective in our perspectives."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Thief",
+      "image": "https://i.ibb.co/rKFkQsZg/Thief.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Bluejay, Earring, Numbers 39 -12 - and 3, Misunderstanding, \"The Hermit\"",
+        "description": "While birds are associated with stealing shiny, valuable objects in folklore, these beliefs are largely unsubstantiated in reality, or misunderstood. The Thief invites us to investigate our prejudices, misunderstandings, miscommunications, and our interactions with myth - how a story can become larger than reality itself, and proliferate so widely that none question it. In tarot, it is associated with \"The Hermit\" - an oft misunderstood card that asks us to examine our relationship with introversion, reclusion, and solitary thought. This card can suggest miscommunication, breakdowns in hierarchy, and illusions. It can also symbolize loss, deception, and an absence of control."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Valour",
+      "image": "https://i.ibb.co/XrYfw8hV/Valour.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Chain Viper, Northern Goshawk, Numbers 14 and 5, Bravery, Resolve, Danger Taking Charge,",
+        "description": "The northern goshawk has widely been considered a symbol of bravery, valour, and camaraderie. In its talons it holds a chain viper, the chain having its associations with the traditional tarot card \"The Devil\". While \"The Devil\" is often associated with vice, Valour asks us to explore how we confront temptation, cowardice, and stagnation. Who or what helps us to rise to the occasion? What inspires courage and nobility within us? When we must confront our enemies and our fears, who do we become and who do we aspire to be? \nThis card explores themes of confrontation and bringing oneself to do the right thing in the face of adversity and pain. It can also imply pride and self-righteousness."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Veil",
+      "image": "https://i.ibb.co/KjSJcH0P/Veil.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Sehra, The Groom, Numbers 40 and 4, The Evil Eye, Protection",
+        "description": "The sehra is a veil often made of garlands of flowers or pearls. It is tied in a way that hides the face of the groom from his intended; it also provides protection from nazar (the evil eye). The veil in this card explores a notion of hiding - what is concealed and treasured? For what reasons? What impact can the gaze of others have on our security and wellbeing? What precautions must be taken? The Veil can imply approaching new tasks and opportunities under a cover of sorts - working through one's thoughts and pursuits in private, and finding fulfillment without the opinions and recognition of others. It can also suggest clouded vision, isolation, danger, and fear."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Virgo",
+      "image": "https://i.ibb.co/fGp049Bx/Virgo.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Maiden, Wheat, Number 6, Earth, Mercury, Logic, Structure, Control, \"The Hermit\"",
+        "description": "The sixth sign of the zodiac, Virgo is a mutable earth sign ruled by Mercury, and it governs the digestive system and abdomen. Much like the tarot card it's closely associated with, \"The Hermit\", Virgo often seeks solitude in order too engage in deep-seated contemplation and intellectual pursuits. Like the inner workings of the body, Virgo seeks sophisticated structure and logic to operate at its best capacity. This card asks us to take stock of the systems present in our lives, and the phases that must come to pass as time marches on.\n\nVirgo wishes to bring stability and serenity into our lives, but it can come at the expense of cool detachment, or a near impassive approach to what it perceives as inevitable."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Visions",
+      "image": "https://i.ibb.co/vxtBjxcL/Visions.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "The Eye, Clouds, Numbers 41 and 5, Clarity, Empathy, Inevitbility",
+        "description": "Visions looks back with a single point of view. It sees past the clouding effects of ego, pride, and envy, and evenly returns our gaze; steadfast and perfect. The clouds part and light radiates, having seen through the fog into what we know to be real. This card not only relays the act of seeing, but the act of looking inward and knowing. What truths do we hide from, knowing they make life difficult to confront who we are and what we must do? What messages are being relayed to us?\nThis card explores themes of clarity, mental acuity, and reality. It can also imply inability - gazing long into what we do not want to acknowledge, but know to be true in our hearts."
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    }
+  ]
+}
